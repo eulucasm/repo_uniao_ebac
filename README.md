@@ -9,8 +9,9 @@
 
 - <a href="https://github.com/eulucasm/fundamentos-kotlin-ebac" target="_blank">Modulo 3 - Fundamentos do Kotlin</a>.
 - <a href="https://github.com/eulucasm/funcoes-kotlin-ebac" target="_blank">Modulo 4 - Funções em Kotlin</a>.
+- <a href="https://github.com/eulucasm/classes-kotlin-ebac" target="_blank">Modulo 5 - Classes em Kotlin</a>.
 
-
+https://github.com/eulucasm/classes-kotlin-ebac
 <hr/>
 **O curso ainda não foi finalizado, então continue acompanhando para novas atualização =)**
 <hr/>
