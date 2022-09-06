@@ -13,8 +13,8 @@
 - <a href="https://github.com/eulucasm/polimorfismo-kotlin-ebac" target="_blank">Módulo 6 - Polimorfismo, classes abstratas e interfaces</a>.
 - <a href="https://github.com/eulucasm/classes-especiais-kotlin-ebac" target="_blank">Modulo 7 - Classes Especiais</a>.
 - <a href="https://github.com/eulucasm/modulo8_ebac" target="_blank">Modulo 8 - Introdução ao android</a>.
+- <a href="https://github.com/eulucasm/modulo9_ebac" target="_blank">Modulo 9 - Introdução a Layouts</a>.
 
-https://github.com/eulucasm/classes-especiais-kotlin-ebac
 
 
 <hr/>
