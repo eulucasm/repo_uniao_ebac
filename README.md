@@ -7,11 +7,11 @@
 
 **Repositorio dos modulos**
 
-- <a href="https://github.com/eulucasm/fundamentos-kotlin-ebac" target="_blank">Modulo 3 - Fundamentos do Kotlin</a>.
-- <a href="https://github.com/eulucasm/funcoes-kotlin-ebac" target="_blank">Modulo 4 - Funções em Kotlin</a>.
-- <a href="https://github.com/eulucasm/classes-kotlin-ebac" target="_blank">Modulo 5 - Classes em Kotlin</a>.
-- <a href="https://github.com/eulucasm/polimorfismo-kotlin-ebac" target="_blank">Módulo 6 - Polimorfismo, classes abstratas e interfaces</a>.
-- <a href="https://github.com/eulucasm/classes-especiais-kotlin-ebac" target="_blank">Modulo 7 - Classes Especiais</a>.
+- <a href="https://github.com/eulucasm/modulo3_ebac" target="_blank">Modulo 3 - Fundamentos do Kotlin</a>.
+- <a href="https://github.com/eulucasm/modulo4_ebac" target="_blank">Modulo 4 - Funções em Kotlin</a>.
+- <a href="https://github.com/eulucasm/modulo5_ebac" target="_blank">Modulo 5 - Classes em Kotlin</a>.
+- <a href="https://github.com/eulucasm/modulo6_ebac" target="_blank">Módulo 6 - Polimorfismo, classes abstratas e interfaces</a>.
+- <a href="https://github.com/eulucasm/modulo7_ebac" target="_blank">Modulo 7 - Classes Especiais</a>.
 - <a href="https://github.com/eulucasm/modulo8_ebac" target="_blank">Modulo 8 - Introdução ao android</a>.
 - <a href="https://github.com/eulucasm/modulo9_ebac" target="_blank">Modulo 9 - Introdução a Layouts</a>.
 
