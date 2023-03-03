@@ -14,8 +14,8 @@
 - <a href="https://github.com/eulucasm/modulo7_ebac" target="_blank">Modulo 7 - Classes Especiais</a>.
 - <a href="https://github.com/eulucasm/modulo8_ebac" target="_blank">Modulo 8 - Introdução ao android</a>.
 - <a href="https://github.com/eulucasm/modulo9_ebac" target="_blank">Modulo 9 - Introdução a Layouts</a>.
-- <a href="https://github.com/eulucasm/EBAC_lista_contato_Modulo10" target="_blank">Modulo 10 - Recycler View</a>
-
+- <a href="https://github.com/eulucasm/modulo10_ebac" target="_blank">Modulo 10 - Recycler View</a>
+- <a href="https://github.com/eulucasm/EBAC_lista_contato_Modulo10" target="_blank">Modulo 10 - Recycler View / DESAFIO</a>
 
 
 
