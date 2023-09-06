@@ -19,7 +19,7 @@
 - <a href="https://github.com/eulucasm/modulo11_ebac" target="_blank">Modulo 11 - Navegação parte - 1</a>
 - <a href="https://github.com/eulucasm/Ebac_modulo11_desafio" target="_blank">Modulo 11 - Navegação parte - 1 DESAFIO</a>
 - <a href="https://github.com/eulucasm/modulo12_ebac" target="_blank">Modulo 12 - Navegação parte - 2</a>
-
+- <a href="https://github.com/eulucasm/Ebac_modulo12_desafio" target="_blank">Modulo 12 - Navegação parte - 2 DESAFIO</a>
 
 
 
