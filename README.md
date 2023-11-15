@@ -19,7 +19,8 @@
 - <a href="https://github.com/eulucasm/modulo11_ebac" target="_blank">Modulo 11 - Navegação parte - 1</a>
 - <a href="https://github.com/eulucasm/modulo12_ebac" target="_blank">Modulo 12 - Navegação parte - 2</a>
 - <a href="https://github.com/eulucasm/modulo11_ebac" target="_blank">DESAFIO App JokenPo</a>
-
+- <a href="https://github.com/eulucasm/Modulo15_arquitetura" target="_blank">modulo 15 - Arquitetura 1</a>
+- <a href="https://github.com/eulucasm/Modulo15_arquitetura_desafio" target="_blank">DESAFIO modulo 15 Arquitetura</a>
 
 
 
